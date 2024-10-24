@@ -41,7 +41,6 @@ Os dados são armazenados no arquivo `taxi.csv`.
    - Compilação dos resultados obtidos e recomendações baseadas no desempenho dos modelos.
 
 ## Conclusão
-A empresa Taxi Corrida Maluca solicitou a criação de um modelo preditivo para estimar o número de pedidos de táxi na próxima hora, utilizando dados históricos. O objetivo principal era desenvolver um modelo que apresentasse um Erro Quadrático Médio (REQM) menor que 48 no conjunto de teste, para que pudesse ser implementado em um sistema de previsão em tempo real.
 
 Os modelos foram avaliados com base na métrica REQM utilizando o conjunto de teste. Os resultados foram os seguintes:
 
